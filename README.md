@@ -8,6 +8,10 @@ SMD techniques are used in this design, and in place programming of the attiny c
 
 Celebrate and learn about the finest qualities of the russian military through history as you make benefit glorious nation of russian federation!
 
+The schematic:
+
+![prototype schematic](hardware/STEM4ukraine-Make-Glory-Mother-Russia-v1.svg)
+
 The front of the PCB:
 
 ![prototype front](images/SpecialMilitaryOperationFront.jpg)
